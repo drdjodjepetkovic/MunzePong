@@ -36,11 +36,28 @@
         }
       ],
       "beersPaid": 3,
-      "burgersPaid": 1
+      "burgersPaid": 1,
+      "gear": [
+        {
+          "id": "holey_sneakers",
+          "name": "Bušne Patike",
+          "icon": "👟",
+          "description": "Aerodinamične rupe za brzinu.",
+          "statEffect": "Brzina +5"
+        },
+        {
+          "id": "magic_potion",
+          "name": "Zaječarac",
+          "icon": "🍺",
+          "description": "Čarobni napitak snage.",
+          "statEffect": "Snaga +10, Int -5"
+        }
+      ]
     },
     "linkedEmails": [
       "djordje007@gmail.com"
-    ]
+    ],
+    "themeSongUrl": "https://www.youtube.com/watch?v=0CNPR2qNzxk"
   },
   {
     "id": "1763602590939",
