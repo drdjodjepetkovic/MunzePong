@@ -1,0 +1,21 @@
+{
+  "id": "1763603570404",
+  "name": "Stefan",
+  "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/palmoticeva-portal.firebasestorage.app/o/munze_data%2Fimages%2Favatars%2F1763603570404_1763786331121.jpg?alt=media&token=f1ab2b32-7d2f-4781-932e-d7b3597117a4",
+  "rpgStats": {
+    "luck": 65,
+    "noise": 45,
+    "excuses": 35,
+    "spin": 40,
+    "classTitle": "Gušter Početnik",
+    "classIcon": "🦎",
+    "level": 1,
+    "currentXp": 0,
+    "nextLevelXp": 100,
+    "history": [],
+    "beersPaid": 2,
+    "burgersPaid": 0,
+    "badges": []
+  },
+  "linkedEmails": []
+}
