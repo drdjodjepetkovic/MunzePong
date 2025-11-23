@@ -1,0 +1,981 @@
+{
+  "timestamp": "2025-11-23T01:32:13.093Z",
+  "stats": {
+    "playersCount": 4,
+    "matchesCount": 36,
+    "feedCount": 4
+  },
+  "data": {
+    "players": [
+      {
+        "id": "1763602551225",
+        "name": "Đole car",
+        "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/palmoticeva-portal.firebasestorage.app/o/munze_data%2Fimages%2Favatars%2F1763602551225_1763774043928.jpg?alt=media&token=e858cb58-0805-492d-8dd6-2e50d8cd8aa3",
+        "rpgStats": {
+          "luck": 46,
+          "noise": 73,
+          "excuses": 51,
+          "spin": 72,
+          "classTitle": "Car Buke i Spina",
+          "classIcon": "👑",
+          "level": 1,
+          "currentXp": 60,
+          "nextLevelXp": 100,
+          "history": [
+            {
+              "id": "1763615200803",
+              "date": "2025-11-20T05:06:40.803Z",
+              "statement": "danas sam ih opet pobedio zato što imam karbon reket",
+              "aiResponse": "Tvoja odanost karbon reketu je neverovatna, Đole care! Sada je tvoja veština pravljenja izgovora dostigla herojski nivo.",
+              "xpGained": 30,
+              "statsChanged": [
+                "Izgovori +9"
+              ]
+            },
+            {
+              "id": "1763786417248",
+              "date": "2025-11-22T04:40:17.248Z",
+              "statement": "i dalje sam najjači",
+              "aiResponse": "Đole, tvoja izjava odzvanja samopouzdanjem, potvrđujući tvoj carski status na terenu. Tvoja buka raste, baš kao i tvoja dominacija!",
+              "xpGained": 30,
+              "statsChanged": [
+                "Buka +5"
+              ]
+            }
+          ],
+          "beersPaid": 3,
+          "burgersPaid": 1,
+          "gear": [
+            {
+              "id": "holey_sneakers",
+              "name": "Bušne Patike",
+              "icon": "👟",
+              "description": "Aerodinamične rupe za brzinu.",
+              "statEffect": "Brzina +5"
+            },
+            {
+              "id": "magic_potion",
+              "name": "Zaječarac",
+              "icon": "🍺",
+              "description": "Čarobni napitak snage.",
+              "statEffect": "Snaga +10, Int -5"
+            }
+          ]
+        },
+        "linkedEmails": [
+          "djordje007@gmail.com"
+        ],
+        "themeSongUrl": "https://www.youtube.com/watch?v=0CNPR2qNzxk"
+      },
+      {
+        "id": "1763602590939",
+        "name": "Milašin",
+        "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/palmoticeva-portal.firebasestorage.app/o/munze_data%2Fimages%2Favatars%2F1763602590939_1763786372899.jpg?alt=media&token=cdd44578-e40a-478c-ba6a-f15e05d993a8",
+        "rpgStats": {
+          "luck": 70,
+          "noise": 42,
+          "excuses": 38,
+          "spin": 71,
+          "classTitle": "Paladin Izgovora",
+          "classIcon": "🗣️",
+          "level": 1,
+          "currentXp": 50,
+          "nextLevelXp": 100,
+          "history": [
+            {
+              "id": "1763847013557",
+              "date": "2025-11-22T21:30:13.557Z",
+              "statement": "meč je bio težak sudija jeo g**** Videćemo šta će doneti danas šta noći",
+              "aiResponse": "Milašine, tvoja elokventna kritika sudija je zapažena i donosi ti titulu Paladina Izgovora. Pazi da se ne 'udaviš' u svojim primedbama!",
+              "xpGained": 50,
+              "statsChanged": [
+                "RPG Update"
+              ]
+            }
+          ],
+          "beersPaid": 6,
+          "burgersPaid": 1,
+          "gear": [
+            {
+              "id": "lucky_briefs",
+              "name": "Srećne Gaće",
+              "icon": "🩲",
+              "description": "Nisu prane od prošlog turnira.",
+              "statEffect": "Sreća +10"
+            },
+            {
+              "id": "grandmas_sweater",
+              "name": "Babin Džempera",
+              "icon": "🧶",
+              "description": "Bocka, ali greje.",
+              "statEffect": "Armor +5"
+            }
+          ]
+        },
+        "linkedEmails": [],
+        "themeSongUrl": "https://youtube.com/shorts/OUwkmrbGpIk?si=WxOXEg8R5YA0n1OV"
+      },
+      {
+        "id": "1763603570404",
+        "name": "Stefan",
+        "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/palmoticeva-portal.firebasestorage.app/o/munze_data%2Fimages%2Favatars%2F1763603570404_1763786331121.jpg?alt=media&token=f1ab2b32-7d2f-4781-932e-d7b3597117a4",
+        "rpgStats": {
+          "luck": 65,
+          "noise": 45,
+          "excuses": 35,
+          "spin": 40,
+          "classTitle": "Gušter Početnik",
+          "classIcon": "🦎",
+          "level": 1,
+          "currentXp": 0,
+          "nextLevelXp": 100,
+          "history": [],
+          "beersPaid": 2,
+          "burgersPaid": 0
+        },
+        "linkedEmails": []
+      },
+      {
+        "id": "1763603674056",
+        "name": "Čale",
+        "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/palmoticeva-portal.firebasestorage.app/o/munze_data%2Fimages%2Favatars%2F1763603674056_1763786359488.jpg?alt=media&token=26b2edde-03bd-4c45-8952-886fb9afbafb",
+        "rpgStats": {
+          "luck": 78,
+          "noise": 44,
+          "excuses": 46,
+          "spin": 56,
+          "classTitle": "Gušter Početnik",
+          "classIcon": "🦎",
+          "level": 1,
+          "currentXp": 0,
+          "nextLevelXp": 100,
+          "history": [],
+          "beersPaid": 3,
+          "burgersPaid": 0
+        },
+        "linkedEmails": []
+      }
+    ],
+    "matches": [
+      {
+        "type": "SINGLE",
+        "team1": [
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602590939"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          },
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-10-29T11:00:00.000Z",
+        "id": "1763605971142"
+      },
+      {
+        "type": "SINGLE",
+        "team1": [
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602551225"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          },
+          {
+            "team1": 0,
+            "team2": 1
+          },
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-10-29T11:00:00.000Z",
+        "id": "1763606236647"
+      },
+      {
+        "type": "SINGLE",
+        "team1": [
+          "1763602590939"
+        ],
+        "team2": [
+          "1763603570404"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          },
+          {
+            "team1": 1,
+            "team2": 0
+          },
+          {
+            "team1": 0,
+            "team2": 1
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-10-29T11:00:00.000Z",
+        "id": "1763606284372"
+      },
+      {
+        "type": "SINGLE",
+        "team1": [
+          "1763602590939"
+        ],
+        "team2": [
+          "1763602551225"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          },
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-10-29T11:00:00.000Z",
+        "id": "1763606315611"
+      },
+      {
+        "type": "SINGLE",
+        "team1": [
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602590939"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          },
+          {
+            "team1": 0,
+            "team2": 1
+          },
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-10-29T11:00:00.000Z",
+        "id": "1763606372089"
+      },
+      {
+        "type": "SINGLE",
+        "team1": [
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602551225"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          },
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-10-29T11:00:00.000Z",
+        "id": "1763606415906"
+      },
+      {
+        "type": "SINGLE",
+        "team1": [
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602590939"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          },
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-10-29T11:00:00.000Z",
+        "id": "1763606443838"
+      },
+      {
+        "type": "SINGLE",
+        "team1": [
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602551225"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          },
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-10-29T11:00:00.000Z",
+        "id": "1763606468357"
+      },
+      {
+        "type": "SINGLE",
+        "team1": [
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602590939"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          },
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-10-29T11:00:00.000Z",
+        "id": "1763606507711"
+      },
+      {
+        "type": "SINGLE",
+        "team1": [
+          "1763602551225"
+        ],
+        "team2": [
+          "1763602590939"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          },
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-11-05T11:00:00.000Z",
+        "id": "1763606794586"
+      },
+      {
+        "type": "SINGLE",
+        "team1": [
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602551225"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          },
+          {
+            "team1": 1,
+            "team2": 0
+          },
+          {
+            "team1": 0,
+            "team2": 1
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-11-05T11:00:00.000Z",
+        "id": "1763606822158"
+      },
+      {
+        "type": "SINGLE",
+        "team1": [
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602590939"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          },
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-11-05T11:00:00.000Z",
+        "id": "1763606845387"
+      },
+      {
+        "type": "SINGLE",
+        "team1": [
+          "1763602551225"
+        ],
+        "team2": [
+          "1763603570404"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          },
+          {
+            "team1": 0,
+            "team2": 1
+          },
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-11-05T11:00:00.000Z",
+        "id": "1763606874204"
+      },
+      {
+        "type": "SINGLE",
+        "team1": [
+          "1763602551225"
+        ],
+        "team2": [
+          "1763602590939"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          },
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-11-05T11:00:00.000Z",
+        "id": "1763606900244"
+      },
+      {
+        "type": "SINGLE",
+        "team1": [
+          "1763602590939"
+        ],
+        "team2": [
+          "1763602551225"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          },
+          {
+            "team1": 0,
+            "team2": 1
+          },
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-11-12T11:00:00.000Z",
+        "id": "1763607004822"
+      },
+      {
+        "type": "SINGLE",
+        "team1": [
+          "1763602551225"
+        ],
+        "team2": [
+          "1763602590939"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          },
+          {
+            "team1": 1,
+            "team2": 0
+          },
+          {
+            "team1": 0,
+            "team2": 1
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-11-12T11:00:00.000Z",
+        "id": "1763607028007"
+      },
+      {
+        "type": "SINGLE",
+        "team1": [
+          "1763602551225"
+        ],
+        "team2": [
+          "1763602590939"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          },
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-11-12T11:00:00.000Z",
+        "id": "1763607051790"
+      },
+      {
+        "type": "SINGLE",
+        "team1": [
+          "1763602551225"
+        ],
+        "team2": [
+          "1763602590939"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          },
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-11-12T11:00:00.000Z",
+        "id": "1763607072018"
+      },
+      {
+        "type": "SINGLE",
+        "team1": [
+          "1763602590939"
+        ],
+        "team2": [
+          "1763602551225"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          },
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-11-12T11:00:00.000Z",
+        "id": "1763607091024"
+      },
+      {
+        "type": "DOUBLE",
+        "team1": [
+          "1763602551225",
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602590939",
+          "1763603674056"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-11-20T11:00:00.000Z",
+        "id": "1763608770727"
+      },
+      {
+        "type": "DOUBLE",
+        "team1": [
+          "1763602551225",
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602590939",
+          "1763603674056"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-11-20T11:00:00.000Z",
+        "id": "1763608783470"
+      },
+      {
+        "type": "DOUBLE",
+        "team1": [
+          "1763602551225",
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602590939",
+          "1763603674056"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-11-20T11:00:00.000Z",
+        "id": "1763608792253"
+      },
+      {
+        "type": "DOUBLE",
+        "team1": [
+          "1763602551225",
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602590939",
+          "1763603674056"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-11-20T11:00:00.000Z",
+        "id": "1763608804043"
+      },
+      {
+        "type": "DOUBLE",
+        "team1": [
+          "1763602551225",
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602590939",
+          "1763603674056"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-11-20T11:00:00.000Z",
+        "id": "1763608811784"
+      },
+      {
+        "type": "DOUBLE",
+        "team1": [
+          "1763602551225",
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602590939",
+          "1763603674056"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-11-20T11:00:00.000Z",
+        "id": "1763608821167"
+      },
+      {
+        "type": "DOUBLE",
+        "team1": [
+          "1763602551225",
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602590939",
+          "1763603674056"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-11-20T11:00:00.000Z",
+        "id": "1763608828158"
+      },
+      {
+        "type": "DOUBLE",
+        "team1": [
+          "1763602551225",
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602590939",
+          "1763603674056"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-11-20T11:00:00.000Z",
+        "id": "1763608836258"
+      },
+      {
+        "type": "DOUBLE",
+        "team1": [
+          "1763602551225",
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602590939",
+          "1763603674056"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-11-20T11:00:00.000Z",
+        "id": "1763608843398"
+      },
+      {
+        "type": "DOUBLE",
+        "team1": [
+          "1763602551225",
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602590939",
+          "1763603674056"
+        ],
+        "sets": [
+          {
+            "team1": 1,
+            "team2": 0
+          }
+        ],
+        "winnerTeamIndex": 0,
+        "date": "2025-11-20T11:00:00.000Z",
+        "id": "1763608852745"
+      },
+      {
+        "type": "DOUBLE",
+        "team1": [
+          "1763602551225",
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602590939",
+          "1763603674056"
+        ],
+        "sets": [
+          {
+            "team1": 0,
+            "team2": 1
+          }
+        ],
+        "winnerTeamIndex": 1,
+        "date": "2025-11-20T11:00:00.000Z",
+        "id": "1763608878457"
+      },
+      {
+        "type": "DOUBLE",
+        "team1": [
+          "1763602551225",
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602590939",
+          "1763603674056"
+        ],
+        "sets": [
+          {
+            "team1": 0,
+            "team2": 1
+          }
+        ],
+        "winnerTeamIndex": 1,
+        "date": "2025-11-20T11:00:00.000Z",
+        "id": "1763608885371"
+      },
+      {
+        "type": "DOUBLE",
+        "team1": [
+          "1763602551225",
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602590939",
+          "1763603674056"
+        ],
+        "sets": [
+          {
+            "team1": 0,
+            "team2": 1
+          }
+        ],
+        "winnerTeamIndex": 1,
+        "date": "2025-11-20T11:00:00.000Z",
+        "id": "1763608893299"
+      },
+      {
+        "type": "DOUBLE",
+        "team1": [
+          "1763602551225",
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602590939",
+          "1763603674056"
+        ],
+        "sets": [
+          {
+            "team1": 0,
+            "team2": 1
+          }
+        ],
+        "winnerTeamIndex": 1,
+        "date": "2025-11-20T11:00:00.000Z",
+        "id": "1763608900702"
+      },
+      {
+        "type": "DOUBLE",
+        "team1": [
+          "1763602551225",
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602590939",
+          "1763603674056"
+        ],
+        "sets": [
+          {
+            "team1": 0,
+            "team2": 1
+          }
+        ],
+        "winnerTeamIndex": 1,
+        "date": "2025-11-20T11:00:00.000Z",
+        "id": "1763608908495"
+      },
+      {
+        "type": "DOUBLE",
+        "team1": [
+          "1763602551225",
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602590939",
+          "1763603674056"
+        ],
+        "sets": [
+          {
+            "team1": 0,
+            "team2": 1
+          }
+        ],
+        "winnerTeamIndex": 1,
+        "date": "2025-11-20T11:00:00.000Z",
+        "id": "1763608915763"
+      },
+      {
+        "type": "DOUBLE",
+        "team1": [
+          "1763602551225",
+          "1763603570404"
+        ],
+        "team2": [
+          "1763602590939",
+          "1763603674056"
+        ],
+        "sets": [
+          {
+            "team1": 0,
+            "team2": 1
+          }
+        ],
+        "winnerTeamIndex": 1,
+        "date": "2025-11-20T11:00:00.000Z",
+        "id": "1763608926083"
+      }
+    ],
+    "feed": [
+      {
+        "id": "1763834998874",
+        "date": "2025-11-22T18:09:58.874Z",
+        "likes": 0,
+        "authorId": "1763602551225",
+        "content": "",
+        "imageUrl": "https://raw.githubusercontent.com/drdjodjepetkovic/MunzePong/matrix/munze_data/images/feed_1763834996074.png"
+      },
+      {
+        "id": "1763834979043",
+        "date": "2025-11-22T18:09:39.043Z",
+        "likes": 0,
+        "authorId": "1763602551225",
+        "content": "Kako ste? "
+      },
+      {
+        "id": "post-1763785165723",
+        "date": "2025-11-22T04:19:25.724Z",
+        "likes": 0,
+        "authorId": "1763602551225",
+        "content": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/palmoticeva-portal.firebasestorage.app/o/munze_data%2Fimages%2Ffeed%2F1763785163335.jpg?alt=media&token=a294e4c0-cb61-4556-aec9-fd93501a0a27"
+      },
+      {
+        "id": "post-1763787569624",
+        "date": "2025-11-22T04:59:29.624Z",
+        "likes": 0,
+        "authorId": "1763602551225",
+        "content": "Jedva cekam... Zvezda Valensija",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/palmoticeva-portal.firebasestorage.app/o/munze_data%2Fimages%2Ffeed%2F1763787568424.jpg?alt=media&token=ee31155e-c92d-4294-a04d-c38c79f5fbdd"
+      }
+    ]
+  }
+}
