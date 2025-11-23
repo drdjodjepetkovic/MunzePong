@@ -10,9 +10,9 @@
       "spin": 72,
       "classTitle": "Car Buke i Spina",
       "classIcon": "👑",
-      "level": 1,
-      "currentXp": 60,
-      "nextLevelXp": 100,
+      "level": 3,
+      "currentXp": 90,
+      "nextLevelXp": 144,
       "history": [
         {
           "id": "1763615200803",
@@ -52,6 +52,11 @@
           "description": "Čarobni napitak snage.",
           "statEffect": "Snaga +10, Int -5"
         }
+      ],
+      "badges": [
+        "metla",
+        "nocna_ptica",
+        "vatra"
       ]
     },
     "linkedEmails": [
@@ -102,7 +107,8 @@
           "description": "Bocka, ali greje.",
           "statEffect": "Armor +5"
         }
-      ]
+      ],
+      "badges": []
     },
     "linkedEmails": [],
     "themeSongUrl": "https://youtube.com/shorts/OUwkmrbGpIk?si=WxOXEg8R5YA0n1OV"
@@ -123,7 +129,8 @@
       "nextLevelXp": 100,
       "history": [],
       "beersPaid": 2,
-      "burgersPaid": 0
+      "burgersPaid": 0,
+      "badges": []
     },
     "linkedEmails": []
   },
@@ -139,11 +146,12 @@
       "classTitle": "Gušter Početnik",
       "classIcon": "🦎",
       "level": 1,
-      "currentXp": 0,
+      "currentXp": 25,
       "nextLevelXp": 100,
       "history": [],
       "beersPaid": 3,
-      "burgersPaid": 0
+      "burgersPaid": 0,
+      "badges": []
     },
     "linkedEmails": []
   }
