@@ -1,0 +1,65 @@
+{
+  "id": "1763602551225",
+  "name": "Đole car",
+  "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/palmoticeva-portal.firebasestorage.app/o/munze_data%2Fimages%2Favatars%2F1763602551225_1763774043928.jpg?alt=media&token=e858cb58-0805-492d-8dd6-2e50d8cd8aa3",
+  "rpgStats": {
+    "luck": 46,
+    "noise": 73,
+    "excuses": 51,
+    "spin": 72,
+    "classTitle": "Car Buke i Spina",
+    "classIcon": "👑",
+    "level": 3,
+    "currentXp": 90,
+    "nextLevelXp": 144,
+    "history": [
+      {
+        "id": "1763615200803",
+        "date": "2025-11-20T05:06:40.803Z",
+        "statement": "danas sam ih opet pobedio zato što imam karbon reket",
+        "aiResponse": "Tvoja odanost karbon reketu je neverovatna, Đole care! Sada je tvoja veština pravljenja izgovora dostigla herojski nivo.",
+        "xpGained": 30,
+        "statsChanged": [
+          "Izgovori +9"
+        ]
+      },
+      {
+        "id": "1763786417248",
+        "date": "2025-11-22T04:40:17.248Z",
+        "statement": "i dalje sam najjači",
+        "aiResponse": "Đole, tvoja izjava odzvanja samopouzdanjem, potvrđujući tvoj carski status na terenu. Tvoja buka raste, baš kao i tvoja dominacija!",
+        "xpGained": 30,
+        "statsChanged": [
+          "Buka +5"
+        ]
+      }
+    ],
+    "beersPaid": 3,
+    "burgersPaid": 1,
+    "gear": [
+      {
+        "id": "holey_sneakers",
+        "name": "Bušne Patike",
+        "icon": "👟",
+        "description": "Aerodinamične rupe za brzinu.",
+        "statEffect": "Brzina +5"
+      },
+      {
+        "id": "magic_potion",
+        "name": "Zaječarac",
+        "icon": "🍺",
+        "description": "Čarobni napitak snage.",
+        "statEffect": "Snaga +10, Int -5"
+      }
+    ],
+    "badges": [
+      "metla",
+      "nocna_ptica",
+      "vatra"
+    ]
+  },
+  "linkedEmails": [
+    "djordje007@gmail.com"
+  ],
+  "themeSongUrl": "https://www.youtube.com/watch?v=0CNPR2qNzxk"
+}
