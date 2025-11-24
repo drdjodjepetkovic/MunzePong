@@ -38,18 +38,20 @@
     "burgersPaid": 1,
     "gear": [
       {
-        "id": "holey_sneakers",
-        "name": "Bušne Patike",
-        "icon": "👟",
-        "description": "Aerodinamične rupe za brzinu.",
-        "statEffect": "Brzina +5"
+        "id": "gear_dice",
+        "name": "Kockice",
+        "icon": "gear/gear_dice.png",
+        "emoji": "🎲",
+        "description": "Nameštena igra.",
+        "statEffect": "Sreća > 60"
       },
       {
-        "id": "magic_potion",
-        "name": "Zaječarac",
-        "icon": "🍺",
-        "description": "Čarobni napitak snage.",
-        "statEffect": "Snaga +10, Int -5"
+        "id": "gear_briefcase",
+        "name": "Advokatska Tašna",
+        "icon": "gear/gear_briefcase.png",
+        "emoji": "💼",
+        "description": "Profesionalno objašnjavanje pravila.",
+        "statEffect": "Izgovori > 40"
       }
     ],
     "badges": [
