@@ -28,18 +28,20 @@
     "burgersPaid": 1,
     "gear": [
       {
-        "id": "lucky_briefs",
-        "name": "Srećne Gaće",
-        "icon": "🩲",
-        "description": "Nisu prane od prošlog turnira.",
-        "statEffect": "Sreća +10"
+        "id": "gear_burger",
+        "name": "Pljeskavica",
+        "icon": "gear/gear_burger.png",
+        "emoji": "🍔",
+        "description": "Masa je mama.",
+        "statEffect": "Gurman"
       },
       {
-        "id": "grandmas_sweater",
-        "name": "Babin Džempera",
-        "icon": "🧶",
-        "description": "Bocka, ali greje.",
-        "statEffect": "Armor +5"
+        "id": "gear_boombox",
+        "name": "Kasetofon",
+        "icon": "gear/gear_boombox.png",
+        "emoji": "📻",
+        "description": "Donosi atmosferu.",
+        "statEffect": "Buka > 60"
       }
     ],
     "badges": []
