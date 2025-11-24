@@ -15,7 +15,9 @@
     "history": [],
     "beersPaid": 3,
     "burgersPaid": 0,
-    "badges": [],
+    "badges": [
+      "vatra"
+    ],
     "gear": [
       {
         "id": "gear_boombox",
