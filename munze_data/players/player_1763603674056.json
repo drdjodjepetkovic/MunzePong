@@ -1,7 +1,7 @@
 {
   "id": "1763603674056",
   "name": "Čale",
-  "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/palmoticeva-portal.firebasestorage.app/o/munze_data%2Fimages%2Favatars%2F1763603674056_1763786359488.jpg?alt=media&token=26b2edde-03bd-4c45-8952-886fb9afbafb",
+  "avatarUrl": "https://raw.githubusercontent.com/drdjodjepetkovic/MunzePong/matrix/munze_data/images/avatar_1763603674056_1764022554347.png",
   "rpgStats": {
     "luck": 78,
     "noise": 44,
@@ -17,5 +17,6 @@
     "burgersPaid": 0,
     "badges": []
   },
-  "linkedEmails": []
+  "linkedEmails": [],
+  "themeSongUrl": ""
 }
