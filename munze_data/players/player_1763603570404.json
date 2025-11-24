@@ -18,20 +18,20 @@
     "badges": [],
     "gear": [
       {
+        "id": "gear_briefcase",
+        "name": "Advokatska Tašna",
+        "icon": "gear/gear_briefcase.png",
+        "emoji": "💼",
+        "description": "Profesionalno objašnjavanje pravila.",
+        "statEffect": "Izgovori > 40"
+      },
+      {
         "id": "gear_beer",
         "name": "Pivo",
         "icon": "gear/gear_beer.png",
         "emoji": "🍺",
         "description": "Tečno zlato za oporavak.",
         "statEffect": "Voli Kafanu"
-      },
-      {
-        "id": "gear_boombox",
-        "name": "Kasetofon",
-        "icon": "gear/gear_boombox.png",
-        "emoji": "📻",
-        "description": "Donosi atmosferu.",
-        "statEffect": "Buka > 60"
       }
     ]
   },
