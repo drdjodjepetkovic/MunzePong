@@ -7,11 +7,11 @@
     "noise": 73,
     "excuses": 51,
     "spin": 72,
-    "classTitle": "Rob",
-    "classIcon": "ranks/rank_slave.png",
-    "level": 5,
-    "currentXp": 174,
-    "nextLevelXp": 206,
+    "classTitle": "Ratnik",
+    "classIcon": "ranks/rank_warrior.png",
+    "level": 6,
+    "currentXp": 68,
+    "nextLevelXp": 247,
     "history": [
       {
         "id": "1764104014732_badge",
