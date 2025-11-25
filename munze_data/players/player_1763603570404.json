@@ -32,6 +32,9 @@
         "description": "Pravi promaju i ometa lopticu.",
         "statEffect": "Spin 40-60"
       }
+    ],
+    "badges": [
+      "vatra"
     ]
   },
   "linkedEmails": [],
