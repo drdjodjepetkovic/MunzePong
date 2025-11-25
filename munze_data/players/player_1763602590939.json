@@ -9,9 +9,9 @@
     "spin": 71,
     "classTitle": "Rob",
     "classIcon": "ranks/rank_slave.png",
-    "level": 1,
+    "level": 2,
     "currentXp": 75,
-    "nextLevelXp": 100,
+    "nextLevelXp": 120,
     "history": [
       {
         "id": "1763847013557",
