@@ -10,9 +10,19 @@
     "classTitle": "Ratnik",
     "classIcon": "ranks/rank_warrior.png",
     "level": 6,
-    "currentXp": 68,
+    "currentXp": 83,
     "nextLevelXp": 247,
     "history": [
+      {
+        "id": "1764105517416",
+        "date": "2025-11-25T21:18:37.416Z",
+        "statement": "Feed Post",
+        "aiResponse": "Glasnik Arene",
+        "xpGained": 15,
+        "statsChanged": [
+          "Hype +1"
+        ]
+      },
       {
         "id": "1764104014732_badge",
         "date": "2025-11-25T20:53:34.732Z",
