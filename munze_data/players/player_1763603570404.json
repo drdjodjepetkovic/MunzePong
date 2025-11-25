@@ -1,7 +1,7 @@
 {
   "id": "1763603570404",
   "name": "Stefan",
-  "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/palmoticeva-portal.firebasestorage.app/o/munze_data%2Fimages%2Favatars%2F1763603570404_1763786331121.jpg?alt=media&token=f1ab2b32-7d2f-4781-932e-d7b3597117a4",
+  "avatarUrl": "https://api.dicebear.com/9.x/avataaars/svg?seed=Stefan&backgroundColor=d1d4f9",
   "rpgStats": {
     "luck": 65,
     "noise": 45,
@@ -13,19 +13,16 @@
     "currentXp": 0,
     "nextLevelXp": 100,
     "history": [],
-    "beersPaid": 2,
+    "beersPaid": 0,
     "burgersPaid": 0,
-    "badges": [
-      "vatra"
-    ],
     "gear": [
       {
-        "id": "gear_beer",
-        "name": "Pivo",
-        "icon": "gear/gear_beer.png",
-        "emoji": "🍺",
-        "description": "Tečno zlato za oporavak.",
-        "statEffect": "Voli Kafanu"
+        "id": "gear_boombox",
+        "name": "Kasetofon",
+        "icon": "gear/gear_boombox.png",
+        "emoji": "📻",
+        "description": "Donosi atmosferu.",
+        "statEffect": "Buka > 60"
       },
       {
         "id": "gear_fan",
