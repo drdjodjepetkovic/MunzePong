@@ -9,10 +9,20 @@
     "spin": 71,
     "classTitle": "Rob",
     "classIcon": "ranks/rank_slave.png",
-    "level": 2,
-    "currentXp": 75,
-    "nextLevelXp": 120,
+    "level": 4,
+    "currentXp": 61,
+    "nextLevelXp": 172,
     "history": [
+      {
+        "id": "1764103425906_badge",
+        "date": "2025-11-25T20:43:45.906Z",
+        "statement": "Osvojen bedž: Preokret",
+        "aiResponse": "Slava heroju!",
+        "xpGained": 150,
+        "statsChanged": [
+          "Reputacija +100"
+        ]
+      },
       {
         "id": "1763847013557",
         "date": "2025-11-22T21:30:13.557Z",
@@ -45,7 +55,8 @@
       }
     ],
     "badges": [
-      "vatra"
+      "vatra",
+      "stit"
     ]
   },
   "linkedEmails": [],
