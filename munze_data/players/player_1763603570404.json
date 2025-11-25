@@ -1,7 +1,7 @@
 {
   "id": "1763603570404",
   "name": "Stefan",
-  "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/palmoticeva-portal.firebasestorage.app/o/munze_data%2Fimages%2Favatars%2F1763603570404_1763786331121.jpg?alt=media&token=f1ab2b32-7d2f-4781-932e-d7b3597117a4",
+  "avatarUrl": "https://raw.githubusercontent.com/drdjodjepetkovic/MunzePong/matrix/munze_data/images/avatar_1763603570404_1764031101393.png",
   "rpgStats": {
     "luck": 65,
     "noise": 45,
@@ -38,5 +38,6 @@
       }
     ]
   },
-  "linkedEmails": []
+  "linkedEmails": [],
+  "themeSongUrl": ""
 }
