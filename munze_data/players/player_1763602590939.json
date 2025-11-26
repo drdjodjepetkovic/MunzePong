@@ -3,16 +3,27 @@
   "name": "Milašin",
   "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/palmoticeva-portal.firebasestorage.app/o/munze_data%2Fimages%2Favatars%2F1763602590939_1763786372899.jpg?alt=media&token=cdd44578-e40a-478c-ba6a-f15e05d993a8",
   "rpgStats": {
-    "luck": 70,
-    "noise": 42,
+    "luck": 65,
+    "noise": 52,
     "excuses": 38,
-    "spin": 71,
-    "classTitle": "Paladin Izgovora",
-    "classIcon": "🗣️",
-    "level": 1,
-    "currentXp": 50,
-    "nextLevelXp": 100,
+    "spin": 66,
+    "classTitle": "Rob",
+    "classIcon": "ranks/rank_slave.png",
+    "level": 2,
+    "currentXp": 0,
+    "nextLevelXp": 120,
     "history": [
+      {
+        "id": "1764187667426",
+        "date": "2025-11-26T20:07:47.426Z",
+        "statement": "sudija turčine napuši se k******",
+        "aiResponse": "Milašine, tvoje reči odjekuju kao eho bezumnosti kroz doline. Buka će ti biti saveznik, a Sreća te napustila. Neka te Had primi u svoje bučne odaje.",
+        "xpGained": 50,
+        "statsChanged": [
+          "RPG Update",
+          "Gear Refresh"
+        ]
+      },
       {
         "id": "1763847013557",
         "date": "2025-11-22T21:30:13.557Z",
@@ -28,20 +39,20 @@
     "burgersPaid": 1,
     "gear": [
       {
-        "id": "gear_chainsaw",
-        "name": "Motorna Testera",
-        "icon": "gear/gear_chainsaw.png",
-        "emoji": "🪚",
-        "description": "Agresivan napad, nula kontrole.",
-        "statEffect": "Spin > 70"
+        "id": "gear_burger",
+        "name": "Pljeskavica",
+        "icon": "gear/gear_burger.png",
+        "emoji": "🍔",
+        "description": "Masa je mama.",
+        "statEffect": "Gurman"
       },
       {
-        "id": "gear_beer",
-        "name": "Pivo",
-        "icon": "gear/gear_beer.png",
-        "emoji": "🍺",
-        "description": "Tečno zlato za oporavak.",
-        "statEffect": "Voli Kafanu"
+        "id": "gear_fan",
+        "name": "Ventilator",
+        "icon": "gear/gear_fan.png",
+        "emoji": "💨",
+        "description": "Pravi promaju i ometa lopticu.",
+        "statEffect": "Spin 40-60"
       }
     ],
     "badges": [
