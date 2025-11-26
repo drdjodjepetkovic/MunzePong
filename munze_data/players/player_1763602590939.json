@@ -10,9 +10,19 @@
     "classTitle": "Rob",
     "classIcon": "ranks/rank_slave.png",
     "level": 2,
-    "currentXp": 0,
+    "currentXp": 15,
     "nextLevelXp": 120,
     "history": [
+      {
+        "id": "1764187841295",
+        "date": "2025-11-26T20:10:41.295Z",
+        "statement": "Feed Post",
+        "aiResponse": "Glasnik Arene",
+        "xpGained": 15,
+        "statsChanged": [
+          "Hype +1"
+        ]
+      },
       {
         "id": "1764187667426",
         "date": "2025-11-26T20:07:47.426Z",
