@@ -1,7 +1,7 @@
 {
   "id": "1763603570404",
   "name": "Stefan",
-  "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/palmoticeva-portal.firebasestorage.app/o/munze_data%2Fimages%2Favatars%2Favatar_1763603570404_1764031101393.png?alt=media&token=86b0891c-9eff-4c37-aea7-c6bcbae29622",
+  "avatarUrl": "https://api.dicebear.com/9.x/avataaars/svg?seed=Stefan&backgroundColor=d1d4f9",
   "rpgStats": {
     "luck": 65,
     "noise": 45,
@@ -17,25 +17,24 @@
     "burgersPaid": 0,
     "gear": [
       {
-        "id": "gear_boombox",
-        "name": "Kasetofon",
-        "icon": "gear/gear_boombox.png",
-        "emoji": "📻",
-        "description": "Donosi atmosferu.",
-        "statEffect": "Buka > 60"
+        "id": "gear_dice",
+        "name": "Kockice",
+        "icon": "gear/gear_dice.png",
+        "emoji": "🎲",
+        "description": "Nameštena igra.",
+        "statEffect": "Sreća > 60"
       },
       {
-        "id": "gear_fan",
-        "name": "Ventilator",
-        "icon": "gear/gear_fan.png",
-        "emoji": "💨",
-        "description": "Pravi promaju i ometa lopticu.",
-        "statEffect": "Spin 40-60"
+        "id": "gear_briefcase",
+        "name": "Advokatska Tašna",
+        "icon": "gear/gear_briefcase.png",
+        "emoji": "💼",
+        "description": "Profesionalno objašnjavanje pravila.",
+        "statEffect": "Izgovori > 40"
       }
     ],
     "badges": [
-      "vatra",
-      "nocna_ptica"
+      "vatra"
     ]
   },
   "linkedEmails": [],
