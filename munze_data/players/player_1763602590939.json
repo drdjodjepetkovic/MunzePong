@@ -9,9 +9,9 @@
     "spin": 66,
     "classTitle": "Ratnik",
     "classIcon": "ranks/rank_warrior.png",
-    "level": 3,
-    "currentXp": 120,
-    "nextLevelXp": 144,
+    "level": 4,
+    "currentXp": 1,
+    "nextLevelXp": 172,
     "history": [
       {
         "id": "1764187841295",
