@@ -10,9 +10,19 @@
     "classTitle": "Gladijator",
     "classIcon": "ranks/rank_gladiator.png",
     "level": 7,
-    "currentXp": 121,
+    "currentXp": 221,
     "nextLevelXp": 296,
     "history": [
+      {
+        "id": "1764287703690_win",
+        "date": "2025-11-27T23:55:03.690Z",
+        "statement": "Pobedio protiv: Milašin",
+        "aiResponse": "Plen: 🥩 Pečenje 500g",
+        "xpGained": 10,
+        "statsChanged": [
+          "Ponos +10"
+        ]
+      },
       {
         "id": "1763615200803",
         "date": "2025-11-20T05:06:40.803Z",
