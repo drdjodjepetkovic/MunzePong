@@ -7,11 +7,11 @@
     "noise": 73,
     "excuses": 51,
     "spin": 72,
-    "classTitle": "Car Buke i Spina",
-    "classIcon": "👑",
-    "level": 3,
-    "currentXp": 90,
-    "nextLevelXp": 144,
+    "classTitle": "Ratnik",
+    "classIcon": "ranks/rank_warrior.png",
+    "level": 4,
+    "currentXp": 46,
+    "nextLevelXp": 172,
     "history": [
       {
         "id": "1763615200803",
