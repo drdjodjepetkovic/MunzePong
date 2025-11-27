@@ -7,12 +7,23 @@
     "noise": 44,
     "excuses": 46,
     "spin": 56,
-    "classTitle": "Rob",
-    "classIcon": "ranks/rank_slave.png",
-    "level": 2,
-    "currentXp": 50,
-    "nextLevelXp": 120,
-    "history": [],
+    "classTitle": "Ratnik",
+    "classIcon": "ranks/rank_warrior.png",
+    "level": 4,
+    "currentXp": 36,
+    "nextLevelXp": 172,
+    "history": [
+      {
+        "id": "1764284444225_badge",
+        "date": "2025-11-27T23:00:44.225Z",
+        "statement": "Osvojen bedž: Noćna Ptica",
+        "aiResponse": "Slava heroju!",
+        "xpGained": 150,
+        "statsChanged": [
+          "Reputacija +100"
+        ]
+      }
+    ],
     "beersPaid": 0,
     "burgersPaid": 0,
     "gear": [
@@ -34,7 +45,8 @@
       }
     ],
     "badges": [
-      "vatra"
+      "vatra",
+      "nocna_ptica"
     ]
   },
   "linkedEmails": [],
