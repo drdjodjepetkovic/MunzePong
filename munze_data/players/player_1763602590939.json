@@ -10,9 +10,20 @@
     "classTitle": "Gladijator",
     "classIcon": "ranks/rank_gladiator.png",
     "level": 7,
-    "currentXp": 76,
+    "currentXp": 101,
     "nextLevelXp": 296,
     "history": [
+      {
+        "id": "1764287704797_loss",
+        "date": "2025-11-27T23:55:04.797Z",
+        "statement": "Izgubio od: Đole car",
+        "aiResponse": "Duguješ: 🥩 Pečenje 500g",
+        "xpGained": 0,
+        "statsChanged": [
+          "Dug +1",
+          "Dostojanstvo -5"
+        ]
+      },
       {
         "id": "1764187841295",
         "date": "2025-11-26T20:10:41.295Z",
@@ -69,7 +80,8 @@
       "vatra",
       "stit",
       "nocna_ptica"
-    ]
+    ],
+    "manualDebts": 1
   },
   "linkedEmails": [],
   "themeSongUrl": "https://youtube.com/shorts/OUwkmrbGpIk?si=WxOXEg8R5YA0n1OV"
