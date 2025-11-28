@@ -10,9 +10,20 @@
     "classTitle": "Gladijator",
     "classIcon": "ranks/rank_gladiator.png",
     "level": 7,
-    "currentXp": 101,
+    "currentXp": 151,
     "nextLevelXp": 296,
     "history": [
+      {
+        "id": "1764289176619",
+        "date": "2025-11-28T00:19:36.619Z",
+        "statement": "Dug Namiren 🧾",
+        "aiResponse": "Pošteno plaćeno.",
+        "xpGained": 50,
+        "statsChanged": [
+          "Dug -1",
+          "Poštovanje +50"
+        ]
+      },
       {
         "id": "1764287704797_loss",
         "date": "2025-11-27T23:55:04.797Z",
@@ -82,7 +93,7 @@
       "nocna_ptica",
       "maratonac"
     ],
-    "manualDebts": 1
+    "manualDebts": 0
   },
   "linkedEmails": [],
   "themeSongUrl": "https://youtube.com/shorts/OUwkmrbGpIk?si=WxOXEg8R5YA0n1OV"
