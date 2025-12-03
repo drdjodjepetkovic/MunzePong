@@ -9,9 +9,9 @@
     "spin": 40,
     "classTitle": "Gladijator",
     "classIcon": "ranks/rank_gladiator.png",
-    "level": 8,
-    "currentXp": 290,
-    "nextLevelXp": 355,
+    "level": 9,
+    "currentXp": 35,
+    "nextLevelXp": 426,
     "history": [
       {
         "id": "1764284416706_badge",
