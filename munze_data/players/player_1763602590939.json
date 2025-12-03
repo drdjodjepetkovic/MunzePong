@@ -10,7 +10,7 @@
     "classTitle": "Rob",
     "classIcon": "ranks/rank_slave.png",
     "level": 2,
-    "currentXp": 100,
+    "currentXp": 0,
     "nextLevelXp": 120,
     "history": [],
     "beersPaid": 0,
@@ -36,7 +36,8 @@
     "badges": [
       "vatra",
       "stit",
-      "nocna_ptica"
+      "nocna_ptica",
+      "maratonac"
     ]
   },
   "linkedEmails": [],
