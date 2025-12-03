@@ -4,26 +4,29 @@
   "avatarUrl": "https://raw.githubusercontent.com/drdjodjepetkovic/MunzePong/matrix/munze_data/images/avatars/1763602590939_1763786372899.jpg",
   "rpgStats": {
     "luck": 70,
-    "noise": 40,
-    "excuses": 30,
-    "spin": 70,
-    "classTitle": "Ratnik",
-    "classIcon": "ranks/rank_warrior.png",
-    "level": 5,
-    "currentXp": 139,
-    "nextLevelXp": 206,
-    "history": [],
-    "beersPaid": 0,
-    "burgersPaid": 0,
-    "gear": [
+    "noise": 42,
+    "excuses": 38,
+    "spin": 71,
+    "classTitle": "Paladin Izgovora",
+    "classIcon": "🗣️",
+    "level": 1,
+    "currentXp": 50,
+    "nextLevelXp": 100,
+    "history": [
       {
-        "id": "gear_briefcase",
-        "name": "Advokatska Tašna",
-        "icon": "gear/gear_briefcase.png",
-        "emoji": "💼",
-        "description": "Profesionalno objašnjavanje pravila.",
-        "statEffect": "Izgovori > 40"
-      },
+        "id": "1763847013557",
+        "date": "2025-11-22T21:30:13.557Z",
+        "statement": "meč je bio težak sudija jeo g**** Videćemo šta će doneti danas šta noći",
+        "aiResponse": "Milašine, tvoja elokventna kritika sudija je zapažena i donosi ti titulu Paladina Izgovora. Pazi da se ne 'udaviš' u svojim primedbama!",
+        "xpGained": 50,
+        "statsChanged": [
+          "RPG Update"
+        ]
+      }
+    ],
+    "beersPaid": 6,
+    "burgersPaid": 1,
+    "gear": [
       {
         "id": "gear_boombox",
         "name": "Kasetofon",
@@ -31,13 +34,20 @@
         "emoji": "📻",
         "description": "Donosi atmosferu.",
         "statEffect": "Buka > 60"
+      },
+      {
+        "id": "gear_briefcase",
+        "name": "Advokatska Tašna",
+        "icon": "gear/gear_briefcase.png",
+        "emoji": "💼",
+        "description": "Profesionalno objašnjavanje pravila.",
+        "statEffect": "Izgovori > 40"
       }
     ],
     "badges": [
+      "maratonac",
       "vatra",
-      "stit",
-      "nocna_ptica",
-      "maratonac"
+      "stit"
     ]
   },
   "linkedEmails": [],
