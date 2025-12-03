@@ -10,7 +10,7 @@
     "classTitle": "Gladijator",
     "classIcon": "ranks/rank_gladiator.png",
     "level": 8,
-    "currentXp": 200,
+    "currentXp": 300,
     "nextLevelXp": 355,
     "history": [
       {
