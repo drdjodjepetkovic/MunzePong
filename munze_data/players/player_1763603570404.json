@@ -1,7 +1,7 @@
 {
   "id": "1763603570404",
   "name": "Stefan",
-  "avatarUrl": "https://api.dicebear.com/9.x/avataaars/svg?seed=Stefan&backgroundColor=d1d4f9",
+  "avatarUrl": "https://raw.githubusercontent.com/drdjodjepetkovic/MunzePong/matrix/munze_data/images/avatars/avatar_1763603570404_1764031101393.png",
   "rpgStats": {
     "luck": 65,
     "noise": 45,
@@ -46,7 +46,8 @@
     ],
     "badges": [
       "vatra",
-      "nocna_ptica"
+      "nocna_ptica",
+      "maratonac"
     ]
   },
   "linkedEmails": [],
