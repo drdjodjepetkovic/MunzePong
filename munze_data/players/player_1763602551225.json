@@ -7,22 +7,12 @@
     "noise": 73,
     "excuses": 51,
     "spin": 72,
-    "classTitle": "Gladijator",
-    "classIcon": "ranks/rank_gladiator.png",
-    "level": 9,
-    "currentXp": 395,
-    "nextLevelXp": 426,
+    "classTitle": "Car Buke i Spina",
+    "classIcon": "👑",
+    "level": 3,
+    "currentXp": 90,
+    "nextLevelXp": 144,
     "history": [
-      {
-        "id": "1764287703690_win",
-        "date": "2025-11-27T23:55:03.690Z",
-        "statement": "Pobedio protiv: Milašin",
-        "aiResponse": "Plen: 🥩 Pečenje 500g",
-        "xpGained": 10,
-        "statsChanged": [
-          "Ponos +10"
-        ]
-      },
       {
         "id": "1763615200803",
         "date": "2025-11-20T05:06:40.803Z",
@@ -48,28 +38,28 @@
     "burgersPaid": 1,
     "gear": [
       {
-        "id": "gear_boombox",
-        "name": "Kasetofon",
-        "icon": "gear/gear_boombox.png",
-        "emoji": "📻",
-        "description": "Donosi atmosferu.",
-        "statEffect": "Buka > 60"
-      },
-      {
         "id": "gear_dice",
         "name": "Kockice",
         "icon": "gear/gear_dice.png",
         "emoji": "🎲",
         "description": "Nameštena igra.",
         "statEffect": "Sreća > 60"
+      },
+      {
+        "id": "gear_chainsaw",
+        "name": "Motorna Testera",
+        "icon": "gear/gear_chainsaw.png",
+        "emoji": "🪚",
+        "description": "Agresivan napad, nula kontrole.",
+        "statEffect": "Spin > 70"
       }
     ],
     "badges": [
       "metla",
       "nocna_ptica",
       "vatra",
-      "stit",
-      "maratonac"
+      "maratonac",
+      "stit"
     ]
   },
   "linkedEmails": [
