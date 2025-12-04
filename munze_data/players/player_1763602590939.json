@@ -4,15 +4,26 @@
   "avatarUrl": "https://raw.githubusercontent.com/drdjodjepetkovic/MunzePong/matrix/munze_data/images/avatars/1763602590939_1763786372899.jpg",
   "rpgStats": {
     "luck": 70,
-    "noise": 42,
+    "noise": 45,
     "excuses": 38,
     "spin": 71,
-    "classTitle": "Paladin Izgovora",
-    "classIcon": "🗣️",
-    "level": 1,
-    "currentXp": 50,
-    "nextLevelXp": 100,
+    "classTitle": "Rob",
+    "classIcon": "ranks/rank_slave.png",
+    "level": 2,
+    "currentXp": 0,
+    "nextLevelXp": 120,
     "history": [
+      {
+        "id": "1764870301754",
+        "date": "2025-12-04T17:45:01.754Z",
+        "statement": "igra je bila fer pokidao sam Đole cara",
+        "aiResponse": "Kroz eho bitke, tvoj ponos odzvanja, Milašine. Bogovi slušaju. Pazi na mač ponosa, jer ima dve oštrice.",
+        "xpGained": 50,
+        "statsChanged": [
+          "RPG Update",
+          "Gear Refresh"
+        ]
+      },
       {
         "id": "1763847013557",
         "date": "2025-11-22T21:30:13.557Z",
@@ -28,20 +39,20 @@
     "burgersPaid": 1,
     "gear": [
       {
-        "id": "gear_boombox",
-        "name": "Kasetofon",
-        "icon": "gear/gear_boombox.png",
-        "emoji": "📻",
-        "description": "Donosi atmosferu.",
-        "statEffect": "Buka > 60"
+        "id": "gear_chainsaw",
+        "name": "Motorna Testera",
+        "icon": "gear/gear_chainsaw.png",
+        "emoji": "🪚",
+        "description": "Agresivan napad, nula kontrole.",
+        "statEffect": "Spin > 70"
       },
       {
-        "id": "gear_briefcase",
-        "name": "Advokatska Tašna",
-        "icon": "gear/gear_briefcase.png",
-        "emoji": "💼",
-        "description": "Profesionalno objašnjavanje pravila.",
-        "statEffect": "Izgovori > 40"
+        "id": "gear_dice",
+        "name": "Kockice",
+        "icon": "gear/gear_dice.png",
+        "emoji": "🎲",
+        "description": "Nameštena igra.",
+        "statEffect": "Sreća > 60"
       }
     ],
     "badges": [
