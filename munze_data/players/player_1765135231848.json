@@ -1,0 +1,42 @@
+{
+  "id": "1765135231848",
+  "name": "Luka",
+  "avatarUrl": "https://raw.githubusercontent.com/drdjodjepetkovic/MunzePong/matrix/munze_data/images/avatars/avatar_1765135227892.jpg",
+  "linkedEmails": [],
+  "themeSongUrl": "",
+  "rpgStats": {
+    "luck": 34,
+    "noise": 31,
+    "excuses": 38,
+    "spin": 23,
+    "classTitle": "Gušter Početnik",
+    "classIcon": "ranks/rank_slave.png",
+    "level": 1,
+    "currentXp": 0,
+    "nextLevelXp": 500,
+    "history": [],
+    "beersPaid": 0,
+    "burgersPaid": 0,
+    "badges": [],
+    "manualDebts": 0,
+    "gear": [
+      {
+        "id": "gear_boombox",
+        "name": "Kasetofon",
+        "icon": "gear/gear_boombox.png",
+        "emoji": "📻",
+        "description": "Donosi atmosferu.",
+        "statEffect": "Buka > 60"
+      },
+      {
+        "id": "gear_umbrella",
+        "name": "Probušen Kišobran",
+        "icon": "gear/gear_umbrella.png",
+        "emoji": "☂️",
+        "description": "Baksuz u zatvorenom.",
+        "statEffect": "Sreća < 30"
+      }
+    ],
+    "debts": []
+  }
+}
