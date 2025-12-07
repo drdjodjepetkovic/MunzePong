@@ -7,27 +7,26 @@
     "noise": 45,
     "excuses": 35,
     "spin": 40,
-    "classTitle": "Gladijator",
-    "classIcon": "ranks/rank_gladiator.png",
-    "level": 6,
-    "currentXp": 108,
-    "nextLevelXp": 247,
+    "classTitle": "Gušter Početnik",
+    "classIcon": "🦎",
+    "level": 1,
+    "currentXp": 0,
+    "nextLevelXp": 100,
     "history": [],
     "beersPaid": 2,
     "burgersPaid": 0,
     "badges": [
       "maratonac",
-      "vatra",
-      "nocna_ptica"
+      "vatra"
     ],
     "gear": [
       {
-        "id": "gear_dice",
-        "name": "Kockice",
-        "icon": "gear/gear_dice.png",
-        "emoji": "🎲",
-        "description": "Nameštena igra.",
-        "statEffect": "Sreća > 60"
+        "id": "gear_fan",
+        "name": "Ventilator",
+        "icon": "gear/gear_fan.png",
+        "emoji": "💨",
+        "description": "Pravi promaju i ometa lopticu.",
+        "statEffect": "Spin 40-60"
       },
       {
         "id": "gear_beer",
