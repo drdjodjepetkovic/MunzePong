@@ -10,7 +10,7 @@
     "classTitle": "Rob",
     "classIcon": "ranks/rank_slave.png",
     "level": 2,
-    "currentXp": 0,
+    "currentXp": 100,
     "nextLevelXp": 120,
     "history": [],
     "beersPaid": 2,
