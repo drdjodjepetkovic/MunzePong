@@ -29,12 +29,12 @@
         "statEffect": "Spin 40-60"
       },
       {
-        "id": "gear_beer",
-        "name": "Pivo",
-        "icon": "gear/gear_beer.png",
-        "emoji": "🍺",
-        "description": "Tečno zlato za oporavak.",
-        "statEffect": "Voli Kafanu"
+        "id": "gear_briefcase",
+        "name": "Advokatska Tašna",
+        "icon": "gear/gear_briefcase.png",
+        "emoji": "💼",
+        "description": "Profesionalno objašnjavanje pravila.",
+        "statEffect": "Izgovori > 40"
       }
     ]
   },
