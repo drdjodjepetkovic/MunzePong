@@ -1,0 +1,42 @@
+{
+  "id": "1765135253209",
+  "name": "Luka",
+  "avatarUrl": "https://raw.githubusercontent.com/drdjodjepetkovic/MunzePong/matrix/munze_data/images/avatars/avatar_1765135252017.jpg",
+  "linkedEmails": [],
+  "themeSongUrl": "",
+  "rpgStats": {
+    "luck": 44,
+    "noise": 17,
+    "excuses": 59,
+    "spin": 37,
+    "classTitle": "Gušter Početnik",
+    "classIcon": "ranks/rank_slave.png",
+    "level": 1,
+    "currentXp": 0,
+    "nextLevelXp": 500,
+    "history": [],
+    "beersPaid": 0,
+    "burgersPaid": 0,
+    "badges": [],
+    "manualDebts": 0,
+    "gear": [
+      {
+        "id": "gear_buvljak",
+        "name": "Reket sa Buvljaka",
+        "icon": "gear/gear_buvljak.png",
+        "emoji": "🏓",
+        "description": "Guma se odlepila, drška lepljiva.",
+        "statEffect": "Spin < 40"
+      },
+      {
+        "id": "gear_earplugs",
+        "name": "Čepići",
+        "icon": "gear/gear_earplugs.png",
+        "emoji": "🙉",
+        "description": "Ignorišeš sve oko sebe.",
+        "statEffect": "Buka < 20"
+      }
+    ],
+    "debts": []
+  }
+}
