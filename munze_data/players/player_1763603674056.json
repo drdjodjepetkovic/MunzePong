@@ -7,26 +7,26 @@
     "noise": 44,
     "excuses": 46,
     "spin": 56,
-    "classTitle": "Gladijator",
-    "classIcon": "ranks/rank_gladiator.png",
-    "level": 6,
-    "currentXp": 233,
-    "nextLevelXp": 247,
+    "classTitle": "Gušter Početnik",
+    "classIcon": "🦎",
+    "level": 1,
+    "currentXp": 25,
+    "nextLevelXp": 100,
     "history": [],
     "beersPaid": 3,
     "burgersPaid": 0,
     "badges": [
-      "vatra",
-      "maratonac"
+      "maratonac",
+      "vatra"
     ],
     "gear": [
       {
-        "id": "gear_briefcase",
-        "name": "Advokatska Tašna",
-        "icon": "gear/gear_briefcase.png",
-        "emoji": "💼",
-        "description": "Profesionalno objašnjavanje pravila.",
-        "statEffect": "Izgovori > 40"
+        "id": "gear_fan",
+        "name": "Ventilator",
+        "icon": "gear/gear_fan.png",
+        "emoji": "💨",
+        "description": "Pravi promaju i ometa lopticu.",
+        "statEffect": "Spin 40-60"
       },
       {
         "id": "gear_rabbit",
