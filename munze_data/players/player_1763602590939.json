@@ -7,11 +7,11 @@
     "noise": 42,
     "excuses": 38,
     "spin": 71,
-    "classTitle": "Ratnik",
-    "classIcon": "ranks/rank_warrior.png",
-    "level": 5,
-    "currentXp": 189,
-    "nextLevelXp": 206,
+    "classTitle": "Gladijator",
+    "classIcon": "ranks/rank_gladiator.png",
+    "level": 6,
+    "currentXp": 83,
+    "nextLevelXp": 247,
     "history": [
       {
         "id": "1763847013557",
