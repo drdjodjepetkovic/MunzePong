@@ -21,20 +21,20 @@
     ],
     "gear": [
       {
+        "id": "gear_boombox",
+        "name": "Kasetofon",
+        "icon": "gear/gear_boombox.png",
+        "emoji": "📻",
+        "description": "Donosi atmosferu.",
+        "statEffect": "Buka > 60"
+      },
+      {
         "id": "gear_fan",
         "name": "Ventilator",
         "icon": "gear/gear_fan.png",
         "emoji": "💨",
         "description": "Pravi promaju i ometa lopticu.",
         "statEffect": "Spin 40-60"
-      },
-      {
-        "id": "gear_rabbit",
-        "name": "Zečija Šapa",
-        "icon": "gear/gear_rabbit.png",
-        "emoji": "🐇",
-        "description": "Klasika za sreću.",
-        "statEffect": "Sreća > 70"
       }
     ]
   },
