@@ -7,11 +7,11 @@
     "noise": 42,
     "excuses": 38,
     "spin": 71,
-    "classTitle": "Gladijator",
-    "classIcon": "ranks/rank_gladiator.png",
-    "level": 6,
-    "currentXp": 83,
-    "nextLevelXp": 247,
+    "classTitle": "Paladin Izgovora",
+    "classIcon": "🗣️",
+    "level": 1,
+    "currentXp": 50,
+    "nextLevelXp": 100,
     "history": [
       {
         "id": "1763847013557",
@@ -36,19 +36,18 @@
         "statEffect": "Izgovori > 40"
       },
       {
-        "id": "gear_boombox",
-        "name": "Kasetofon",
-        "icon": "gear/gear_boombox.png",
-        "emoji": "📻",
-        "description": "Donosi atmosferu.",
-        "statEffect": "Buka > 60"
+        "id": "gear_chainsaw",
+        "name": "Motorna Testera",
+        "icon": "gear/gear_chainsaw.png",
+        "emoji": "🪚",
+        "description": "Agresivan napad, nula kontrole.",
+        "statEffect": "Spin > 70"
       }
     ],
     "badges": [
       "maratonac",
       "vatra",
-      "stit",
-      "nocna_ptica"
+      "stit"
     ]
   },
   "linkedEmails": [],
