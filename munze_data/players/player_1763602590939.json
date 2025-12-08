@@ -1,36 +1,47 @@
 {
   "id": "1763602590939",
   "name": "Milašin",
-  "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/palmoticeva-portal.firebasestorage.app/o/munze_data%2Fping%2F1763602590939_1763786372899.jpg?alt=media&token=18d8aabc-04b1-4bd3-af97-330220c4cacf",
+  "avatarUrl": "https://raw.githubusercontent.com/drdjodjepetkovic/MunzePong/matrix/munze_data/images/avatars/1763602590939_1763786372899.jpg",
   "rpgStats": {
     "luck": 70,
-    "noise": 40,
-    "excuses": 30,
-    "spin": 70,
-    "classTitle": "Rob",
-    "classIcon": "ranks/rank_slave.png",
-    "level": 2,
-    "currentXp": 0,
-    "nextLevelXp": 120,
-    "history": [],
-    "beersPaid": 0,
-    "burgersPaid": 0,
+    "noise": 42,
+    "excuses": 38,
+    "spin": 71,
+    "classTitle": "Paladin Izgovora",
+    "classIcon": "🗣️",
+    "level": 1,
+    "currentXp": 50,
+    "nextLevelXp": 100,
+    "history": [
+      {
+        "id": "1763847013557",
+        "date": "2025-11-22T21:30:13.557Z",
+        "statement": "meč je bio težak sudija jeo g**** Videćemo šta će doneti danas šta noći",
+        "aiResponse": "Milašine, tvoja elokventna kritika sudija je zapažena i donosi ti titulu Paladina Izgovora. Pazi da se ne 'udaviš' u svojim primedbama!",
+        "xpGained": 50,
+        "statsChanged": [
+          "RPG Update"
+        ]
+      }
+    ],
+    "beersPaid": 6,
+    "burgersPaid": 1,
     "gear": [
       {
-        "id": "gear_dice",
-        "name": "Kockice",
-        "icon": "gear/gear_dice.png",
-        "emoji": "🎲",
-        "description": "Nameštena igra.",
-        "statEffect": "Sreća > 60"
+        "id": "gear_burger",
+        "name": "Pljeskavica",
+        "icon": "gear/gear_burger.png",
+        "emoji": "🍔",
+        "description": "Masa je mama.",
+        "statEffect": "Gurman"
       },
       {
-        "id": "gear_fan",
-        "name": "Ventilator",
-        "icon": "gear/gear_fan.png",
-        "emoji": "💨",
-        "description": "Pravi promaju i ometa lopticu.",
-        "statEffect": "Spin 40-60"
+        "id": "gear_briefcase",
+        "name": "Advokatska Tašna",
+        "icon": "gear/gear_briefcase.png",
+        "emoji": "💼",
+        "description": "Profesionalno objašnjavanje pravila.",
+        "statEffect": "Izgovori > 40"
       }
     ],
     "badges": [
@@ -40,5 +51,5 @@
     ]
   },
   "linkedEmails": [],
-  "themeSongUrl": "https://firebasestorage.googleapis.com/v0/b/palmoticeva-portal.firebasestorage.app/o/munze_data%2Fping%2FSUPERMAN%20Theme%20-%20John%20Williams%20Saito%20Kinen%20Orchestra.mp3?alt=media&token=dcb3d805-9936-4394-9aec-1f7765a63c5d"
+  "themeSongUrl": "https://youtube.com/shorts/OUwkmrbGpIk?si=WxOXEg8R5YA0n1OV"
 }
