@@ -7,11 +7,11 @@
     "noise": 44,
     "excuses": 46,
     "spin": 56,
-    "classTitle": "Rob",
-    "classIcon": "ranks/rank_slave.png",
-    "level": 2,
+    "classTitle": "Gušter Početnik",
+    "classIcon": "🦎",
+    "level": 1,
     "currentXp": 25,
-    "nextLevelXp": 120,
+    "nextLevelXp": 100,
     "history": [],
     "beersPaid": 3,
     "burgersPaid": 0,
@@ -29,12 +29,12 @@
         "statEffect": "Buka > 60"
       },
       {
-        "id": "gear_fan",
-        "name": "Ventilator",
-        "icon": "gear/gear_fan.png",
-        "emoji": "💨",
-        "description": "Pravi promaju i ometa lopticu.",
-        "statEffect": "Spin 40-60"
+        "id": "gear_rabbit",
+        "name": "Zečija Šapa",
+        "icon": "gear/gear_rabbit.png",
+        "emoji": "🐇",
+        "description": "Klasika za sreću.",
+        "statEffect": "Sreća > 70"
       }
     ]
   },
