@@ -7,11 +7,11 @@
     "noise": 73,
     "excuses": 51,
     "spin": 72,
-    "classTitle": "Ratnik",
-    "classIcon": "ranks/rank_warrior.png",
-    "level": 5,
-    "currentXp": 174,
-    "nextLevelXp": 206,
+    "classTitle": "Car Buke i Spina",
+    "classIcon": "👑",
+    "level": 3,
+    "currentXp": 90,
+    "nextLevelXp": 144,
     "history": [
       {
         "id": "1763615200803",
@@ -38,20 +38,20 @@
     "burgersPaid": 1,
     "gear": [
       {
-        "id": "gear_dice",
-        "name": "Kockice",
-        "icon": "gear/gear_dice.png",
-        "emoji": "🎲",
-        "description": "Nameštena igra.",
-        "statEffect": "Sreća > 60"
-      },
-      {
         "id": "gear_boombox",
         "name": "Kasetofon",
         "icon": "gear/gear_boombox.png",
         "emoji": "📻",
         "description": "Donosi atmosferu.",
         "statEffect": "Buka > 60"
+      },
+      {
+        "id": "gear_burger",
+        "name": "Pljeskavica",
+        "icon": "gear/gear_burger.png",
+        "emoji": "🍔",
+        "description": "Masa je mama.",
+        "statEffect": "Gurman"
       }
     ],
     "badges": [
