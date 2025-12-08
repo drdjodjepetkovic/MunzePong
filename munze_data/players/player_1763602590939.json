@@ -7,22 +7,12 @@
     "noise": 42,
     "excuses": 38,
     "spin": 71,
-    "classTitle": "Ratnik",
-    "classIcon": "ranks/rank_warrior.png",
-    "level": 5,
-    "currentXp": 64,
-    "nextLevelXp": 206,
+    "classTitle": "Paladin Izgovora",
+    "classIcon": "🗣️",
+    "level": 1,
+    "currentXp": 50,
+    "nextLevelXp": 100,
     "history": [
-      {
-        "id": "1765156357153_badge",
-        "date": "2025-12-08T01:12:37.153Z",
-        "statement": "Osvojen bedž: Noćna Ptica",
-        "aiResponse": "Slava heroju!",
-        "xpGained": 150,
-        "statsChanged": [
-          "Reputacija +100"
-        ]
-      },
       {
         "id": "1763847013557",
         "date": "2025-11-22T21:30:13.557Z",
@@ -38,27 +28,26 @@
     "burgersPaid": 1,
     "gear": [
       {
-        "id": "gear_chainsaw",
-        "name": "Motorna Testera",
-        "icon": "gear/gear_chainsaw.png",
-        "emoji": "🪚",
-        "description": "Agresivan napad, nula kontrole.",
-        "statEffect": "Spin > 70"
+        "id": "gear_beer",
+        "name": "Pivo",
+        "icon": "gear/gear_beer.png",
+        "emoji": "🍺",
+        "description": "Tečno zlato za oporavak.",
+        "statEffect": "Voli Kafanu"
       },
       {
-        "id": "gear_burger",
-        "name": "Pljeskavica",
-        "icon": "gear/gear_burger.png",
-        "emoji": "🍔",
-        "description": "Masa je mama.",
-        "statEffect": "Gurman"
+        "id": "gear_briefcase",
+        "name": "Advokatska Tašna",
+        "icon": "gear/gear_briefcase.png",
+        "emoji": "💼",
+        "description": "Profesionalno objašnjavanje pravila.",
+        "statEffect": "Izgovori > 40"
       }
     ],
     "badges": [
       "maratonac",
       "vatra",
-      "stit",
-      "nocna_ptica"
+      "stit"
     ]
   },
   "linkedEmails": [],
