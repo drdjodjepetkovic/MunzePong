@@ -7,12 +7,24 @@
     "noise": 40,
     "excuses": 30,
     "spin": 70,
-    "classTitle": "Gušter Početnik",
-    "classIcon": "🦎",
+    "classTitle": "Rob",
+    "classIcon": "ranks/rank_slave.png",
     "level": 1,
-    "currentXp": 0,
+    "currentXp": 25,
     "nextLevelXp": 100,
-    "history": [],
+    "history": [
+      {
+        "id": "1765237220139_loss",
+        "date": "2025-12-08T23:40:20.139Z",
+        "statement": "Izgubio od: Đole car",
+        "aiResponse": "Duguješ: 🍺 Pivo",
+        "xpGained": 0,
+        "statsChanged": [
+          "Dug +1",
+          "Dostojanstvo -5"
+        ]
+      }
+    ],
     "beersPaid": 0,
     "burgersPaid": 0,
     "gear": [
@@ -37,6 +49,14 @@
       "maratonac",
       "vatra",
       "stit"
+    ],
+    "debts": [
+      {
+        "id": "1765237220139_cedk3hmnc",
+        "creditorName": "Đole car",
+        "item": "🍺 Pivo",
+        "date": "2025-12-08T23:40:20.139Z"
+      }
     ]
   },
   "linkedEmails": [],
