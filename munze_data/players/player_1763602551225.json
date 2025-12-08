@@ -1,17 +1,17 @@
 {
   "id": "1763602551225",
   "name": "Đole car",
-  "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/palmoticeva-portal.firebasestorage.app/o/munze_data%2Fping%2F1763602551225_1763774043928.jpg?alt=media&token=b10dcb19-ac15-499a-bc8c-b243ce93f3ae",
+  "avatarUrl": "https://raw.githubusercontent.com/drdjodjepetkovic/MunzePong/matrix/munze_data/images/avatars/1763602551225_1763774043928.jpg",
   "rpgStats": {
     "luck": 46,
-    "noise": 68,
+    "noise": 73,
     "excuses": 51,
     "spin": 72,
-    "classTitle": "Rob",
-    "classIcon": "ranks/rank_slave.png",
-    "level": 2,
-    "currentXp": 30,
-    "nextLevelXp": 120,
+    "classTitle": "Car Buke i Spina",
+    "classIcon": "👑",
+    "level": 3,
+    "currentXp": 90,
+    "nextLevelXp": 144,
     "history": [
       {
         "id": "1763615200803",
@@ -22,36 +22,48 @@
         "statsChanged": [
           "Izgovori +9"
         ]
-      }
-    ],
-    "beersPaid": 0,
-    "burgersPaid": 0,
-    "gear": [
-      {
-        "id": "gear_chainsaw",
-        "name": "Motorna Testera",
-        "icon": "gear/gear_chainsaw.png",
-        "emoji": "🪚",
-        "description": "Agresivan napad, nula kontrole.",
-        "statEffect": "Spin > 70"
       },
       {
-        "id": "gear_briefcase",
-        "name": "Advokatska Tašna",
-        "icon": "gear/gear_briefcase.png",
-        "emoji": "💼",
-        "description": "Profesionalno objašnjavanje pravila.",
-        "statEffect": "Izgovori > 40"
+        "id": "1763786417248",
+        "date": "2025-11-22T04:40:17.248Z",
+        "statement": "i dalje sam najjači",
+        "aiResponse": "Đole, tvoja izjava odzvanja samopouzdanjem, potvrđujući tvoj carski status na terenu. Tvoja buka raste, baš kao i tvoja dominacija!",
+        "xpGained": 30,
+        "statsChanged": [
+          "Buka +5"
+        ]
+      }
+    ],
+    "beersPaid": 3,
+    "burgersPaid": 1,
+    "gear": [
+      {
+        "id": "gear_dice",
+        "name": "Kockice",
+        "icon": "gear/gear_dice.png",
+        "emoji": "🎲",
+        "description": "Nameštena igra.",
+        "statEffect": "Sreća > 60"
+      },
+      {
+        "id": "gear_boombox",
+        "name": "Kasetofon",
+        "icon": "gear/gear_boombox.png",
+        "emoji": "📻",
+        "description": "Donosi atmosferu.",
+        "statEffect": "Buka > 60"
       }
     ],
     "badges": [
-      "maratonac",
+      "metla",
+      "nocna_ptica",
       "vatra",
+      "maratonac",
       "stit"
     ]
   },
   "linkedEmails": [
     "djordje007@gmail.com"
   ],
-  "themeSongUrl": "https://firebasestorage.googleapis.com/v0/b/palmoticeva-portal.firebasestorage.app/o/munze_data%2Fping%2Fundeniable-feat-richie-sosa-kswec4esq2c_kOQ7KRcv.mp3?alt=media&token=1935b345-4619-4a85-94a5-9fec71370f28"
+  "themeSongUrl": "https://www.youtube.com/watch?v=0CNPR2qNzxk"
 }
