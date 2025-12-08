@@ -1,28 +1,32 @@
 {
   "id": "1763603570404",
   "name": "Stefan",
-  "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/palmoticeva-portal.firebasestorage.app/o/munze_data%2Fping%2Favatar_1763603570404_1764031101393.png?alt=media&token=7d61eb0f-d552-428e-8c07-6b40706431ad",
+  "avatarUrl": "https://raw.githubusercontent.com/drdjodjepetkovic/MunzePong/matrix/munze_data/images/avatars/avatar_1763603570404_1764031101393.png",
   "rpgStats": {
     "luck": 65,
     "noise": 45,
     "excuses": 35,
     "spin": 40,
-    "classTitle": "Rob",
-    "classIcon": "ranks/rank_slave.png",
+    "classTitle": "Gušter Početnik",
+    "classIcon": "🦎",
     "level": 1,
-    "currentXp": 25,
+    "currentXp": 0,
     "nextLevelXp": 100,
     "history": [],
-    "beersPaid": 0,
+    "beersPaid": 2,
     "burgersPaid": 0,
+    "badges": [
+      "maratonac",
+      "vatra"
+    ],
     "gear": [
       {
-        "id": "gear_fan",
-        "name": "Ventilator",
-        "icon": "gear/gear_fan.png",
-        "emoji": "💨",
-        "description": "Pravi promaju i ometa lopticu.",
-        "statEffect": "Spin 40-60"
+        "id": "gear_briefcase",
+        "name": "Advokatska Tašna",
+        "icon": "gear/gear_briefcase.png",
+        "emoji": "💼",
+        "description": "Profesionalno objašnjavanje pravila.",
+        "statEffect": "Izgovori > 40"
       },
       {
         "id": "gear_dice",
@@ -32,10 +36,6 @@
         "description": "Nameštena igra.",
         "statEffect": "Sreća > 60"
       }
-    ],
-    "badges": [
-      "maratonac",
-      "vatra"
     ]
   },
   "linkedEmails": [],
