@@ -7,11 +7,11 @@
     "noise": 68,
     "excuses": 51,
     "spin": 72,
-    "classTitle": "Paladin Karbonskog Izgovora",
-    "classIcon": "🛡️",
-    "level": 1,
+    "classTitle": "Rob",
+    "classIcon": "ranks/rank_slave.png",
+    "level": 2,
     "currentXp": 30,
-    "nextLevelXp": 100,
+    "nextLevelXp": 120,
     "history": [
       {
         "id": "1763615200803",
