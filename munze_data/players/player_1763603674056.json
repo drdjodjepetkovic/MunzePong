@@ -7,11 +7,11 @@
     "noise": 44,
     "excuses": 46,
     "spin": 56,
-    "classTitle": "Ratnik",
-    "classIcon": "ranks/rank_warrior.png",
-    "level": 3,
-    "currentXp": 130,
-    "nextLevelXp": 144,
+    "classTitle": "Gušter Početnik",
+    "classIcon": "🦎",
+    "level": 1,
+    "currentXp": 25,
+    "nextLevelXp": 100,
     "history": [],
     "beersPaid": 3,
     "burgersPaid": 0,
@@ -21,12 +21,12 @@
     ],
     "gear": [
       {
-        "id": "gear_boombox",
-        "name": "Kasetofon",
-        "icon": "gear/gear_boombox.png",
-        "emoji": "📻",
-        "description": "Donosi atmosferu.",
-        "statEffect": "Buka > 60"
+        "id": "gear_beer",
+        "name": "Pivo",
+        "icon": "gear/gear_beer.png",
+        "emoji": "🍺",
+        "description": "Tečno zlato za oporavak.",
+        "statEffect": "Voli Kafanu"
       },
       {
         "id": "gear_rabbit",
