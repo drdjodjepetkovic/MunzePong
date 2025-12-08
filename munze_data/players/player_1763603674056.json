@@ -1,18 +1,30 @@
 {
   "id": "1763603674056",
   "name": "Čale",
-  "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/palmoticeva-portal.firebasestorage.app/o/munze_data%2Fping%2Favatar_1763603674056_1764022554347.png?alt=media&token=14121360-23de-48b2-bd06-f1aac21765a4",
+  "avatarUrl": "https://raw.githubusercontent.com/drdjodjepetkovic/MunzePong/matrix/munze_data/images/avatars/avatar_1763603674056_1764022554347.png",
   "rpgStats": {
-    "luck": 78,
-    "noise": 44,
-    "excuses": 46,
-    "spin": 56,
-    "classTitle": "Gušter Početnik",
-    "classIcon": "🦎",
+    "luck": 77,
+    "noise": 42,
+    "excuses": 49,
+    "spin": 54,
+    "classTitle": "Rob",
+    "classIcon": "ranks/rank_slave.png",
     "level": 1,
-    "currentXp": 0,
+    "currentXp": 50,
     "nextLevelXp": 100,
-    "history": [],
+    "history": [
+      {
+        "id": "1765168553025",
+        "date": "2025-12-08T04:35:53.025Z",
+        "statement": "slabo pričam ćutim sve vreme a još lošije igram",
+        "aiResponse": "Reči tvoje, Ratniče, teže su od oklopa, a tišina tvoja odzvanja praznim obećanjima. U senci izgovora, bogovi vide istinu, a put heroja ostaje nevidljiv za tebe.",
+        "xpGained": 50,
+        "statsChanged": [
+          "RPG Update",
+          "Gear Refresh"
+        ]
+      }
+    ],
     "beersPaid": 0,
     "burgersPaid": 0,
     "gear": [
