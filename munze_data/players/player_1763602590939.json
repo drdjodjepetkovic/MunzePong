@@ -1,7 +1,7 @@
 {
   "id": "1763602590939",
   "name": "Milašin",
-  "avatarUrl": "https://api.dicebear.com/9.x/avataaars/svg?seed=Milasin&backgroundColor=c0aede",
+  "avatarUrl": "https://raw.githubusercontent.com/drdjodjepetkovic/MunzePong/matrix/munze_data/images/avatars/1763602590939_1763786372899.jpg",
   "rpgStats": {
     "luck": 70,
     "noise": 40,
@@ -34,7 +34,9 @@
       }
     ],
     "badges": [
-      "vatra"
+      "vatra",
+      "maratonac",
+      "stit"
     ]
   },
   "linkedEmails": [],
