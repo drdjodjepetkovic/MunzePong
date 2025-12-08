@@ -13,20 +13,16 @@
     "currentXp": 0,
     "nextLevelXp": 100,
     "history": [],
-    "beersPaid": 2,
+    "beersPaid": 0,
     "burgersPaid": 0,
-    "badges": [
-      "maratonac",
-      "vatra"
-    ],
     "gear": [
       {
-        "id": "gear_briefcase",
-        "name": "Advokatska Tašna",
-        "icon": "gear/gear_briefcase.png",
-        "emoji": "💼",
-        "description": "Profesionalno objašnjavanje pravila.",
-        "statEffect": "Izgovori > 40"
+        "id": "gear_fan",
+        "name": "Ventilator",
+        "icon": "gear/gear_fan.png",
+        "emoji": "💨",
+        "description": "Pravi promaju i ometa lopticu.",
+        "statEffect": "Spin 40-60"
       },
       {
         "id": "gear_dice",
@@ -36,6 +32,10 @@
         "description": "Nameštena igra.",
         "statEffect": "Sreća > 60"
       }
+    ],
+    "badges": [
+      "maratonac",
+      "vatra"
     ]
   },
   "linkedEmails": [],
