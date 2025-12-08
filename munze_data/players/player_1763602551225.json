@@ -10,9 +10,19 @@
     "classTitle": "Gladijator",
     "classIcon": "ranks/rank_gladiator.png",
     "level": 6,
-    "currentXp": 118,
+    "currentXp": 218,
     "nextLevelXp": 247,
     "history": [
+      {
+        "id": "1765237218917_win",
+        "date": "2025-12-08T23:40:18.917Z",
+        "statement": "Pobedio protiv: Milašin",
+        "aiResponse": "Plen: 🍺 Pivo",
+        "xpGained": 10,
+        "statsChanged": [
+          "Ponos +10"
+        ]
+      },
       {
         "id": "1763615200803",
         "date": "2025-11-20T05:06:40.803Z",
