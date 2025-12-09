@@ -69,5 +69,6 @@
   "debts": [],
   "manualDebts": 0,
   "isActive": true,
-  "pin": "1884"
+  "pin": "1884",
+  "balance": 1000
 }
