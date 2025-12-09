@@ -1,0 +1,22 @@
+{
+  "id": "1765306626012",
+  "matchType": "SINGLE",
+  "team1Ids": [
+    "1763602551225"
+  ],
+  "team2Ids": [
+    "1763602590939"
+  ],
+  "team1Names": [
+    "Đole car"
+  ],
+  "team2Names": [
+    "Milašin"
+  ],
+  "odds1": 1.85,
+  "odds2": 1.85,
+  "status": "OPEN",
+  "bets": [],
+  "createdBy": "Admin",
+  "createdAt": 1765306626013
+}
