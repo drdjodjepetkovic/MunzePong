@@ -4,44 +4,33 @@
   "avatarUrl": "https://raw.githubusercontent.com/drdjodjepetkovic/MunzePong/matrix/munze_data/images/avatars/1763602590939_1763786372899.jpg",
   "rpgStats": {
     "luck": 70,
-    "noise": 42,
-    "excuses": 38,
-    "spin": 71,
-    "classTitle": "Paladin Izgovora",
-    "classIcon": "🗣️",
+    "noise": 40,
+    "excuses": 30,
+    "spin": 70,
+    "classTitle": "Gušter Početnik",
+    "classIcon": "🦎",
     "level": 1,
-    "currentXp": 50,
+    "currentXp": 0,
     "nextLevelXp": 100,
-    "history": [
-      {
-        "id": "1763847013557",
-        "date": "2025-11-22T21:30:13.557Z",
-        "statement": "meč je bio težak sudija jeo g**** Videćemo šta će doneti danas šta noći",
-        "aiResponse": "Milašine, tvoja elokventna kritika sudija je zapažena i donosi ti titulu Paladina Izgovora. Pazi da se ne 'udaviš' u svojim primedbama!",
-        "xpGained": 50,
-        "statsChanged": [
-          "RPG Update"
-        ]
-      }
-    ],
-    "beersPaid": 6,
-    "burgersPaid": 1,
+    "history": [],
+    "beersPaid": 0,
+    "burgersPaid": 0,
     "gear": [
       {
-        "id": "gear_chainsaw",
-        "name": "Motorna Testera",
-        "icon": "gear/gear_chainsaw.png",
-        "emoji": "🪚",
-        "description": "Agresivan napad, nula kontrole.",
-        "statEffect": "Spin > 70"
+        "id": "gear_dice",
+        "name": "Kockice",
+        "icon": "gear/gear_dice.png",
+        "emoji": "🎲",
+        "description": "Nameštena igra.",
+        "statEffect": "Sreća > 60"
       },
       {
-        "id": "gear_beer",
-        "name": "Pivo",
-        "icon": "gear/gear_beer.png",
-        "emoji": "🍺",
-        "description": "Tečno zlato za oporavak.",
-        "statEffect": "Voli Kafanu"
+        "id": "gear_fan",
+        "name": "Ventilator",
+        "icon": "gear/gear_fan.png",
+        "emoji": "💨",
+        "description": "Pravi promaju i ometa lopticu.",
+        "statEffect": "Spin 40-60"
       }
     ],
     "badges": [
