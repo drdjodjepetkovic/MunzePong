@@ -40,5 +40,6 @@
     "debts": [],
     "balance": 200,
     "betHistory": []
-  }
+  },
+  "isActive": false
 }
