@@ -7,22 +7,12 @@
     "noise": 73,
     "excuses": 51,
     "spin": 72,
-    "classTitle": "Gladijator",
-    "classIcon": "ranks/rank_gladiator.png",
-    "level": 6,
-    "currentXp": 218,
-    "nextLevelXp": 247,
+    "classTitle": "Car Buke i Spina",
+    "classIcon": "👑",
+    "level": 3,
+    "currentXp": 90,
+    "nextLevelXp": 144,
     "history": [
-      {
-        "id": "1765237218917_win",
-        "date": "2025-12-08T23:40:18.917Z",
-        "statement": "Pobedio protiv: Milašin",
-        "aiResponse": "Plen: 🍺 Pivo",
-        "xpGained": 10,
-        "statsChanged": [
-          "Ponos +10"
-        ]
-      },
       {
         "id": "1763615200803",
         "date": "2025-11-20T05:06:40.803Z",
@@ -56,12 +46,12 @@
         "statEffect": "Sreća > 60"
       },
       {
-        "id": "gear_boombox",
-        "name": "Kasetofon",
-        "icon": "gear/gear_boombox.png",
-        "emoji": "📻",
-        "description": "Donosi atmosferu.",
-        "statEffect": "Buka > 60"
+        "id": "gear_chainsaw",
+        "name": "Motorna Testera",
+        "icon": "gear/gear_chainsaw.png",
+        "emoji": "🪚",
+        "description": "Agresivan napad, nula kontrole.",
+        "statEffect": "Spin > 70"
       }
     ],
     "badges": [
@@ -70,11 +60,7 @@
       "vatra",
       "maratonac",
       "stit"
-    ],
-    "balance": 500,
-    "betHistory": [],
-    "debts": [],
-    "manualDebts": 0
+    ]
   },
   "linkedEmails": [
     "djordje007@gmail.com"
