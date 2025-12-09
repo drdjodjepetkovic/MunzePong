@@ -43,5 +43,6 @@
   },
   "isActive": false,
   "debts": [],
-  "manualDebts": 0
+  "manualDebts": 0,
+  "balance": 1000
 }
