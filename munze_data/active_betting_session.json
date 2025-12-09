@@ -16,7 +16,15 @@
   "odds1": 1.85,
   "odds2": 1.85,
   "status": "OPEN",
-  "bets": [],
+  "bets": [
+    {
+      "userId": "1763603570404",
+      "userName": "Stefan",
+      "amount": 50,
+      "teamIndex": 0,
+      "timestamp": 1765306695091
+    }
+  ],
   "createdBy": "Admin",
   "createdAt": 1765306626013
 }
