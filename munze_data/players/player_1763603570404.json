@@ -36,7 +36,11 @@
         "description": "Donosi atmosferu.",
         "statEffect": "Buka > 60"
       }
-    ]
+    ],
+    "balance": 400,
+    "betHistory": [],
+    "debts": [],
+    "manualDebts": 0
   },
   "linkedEmails": [],
   "themeSongUrl": "https://firebasestorage.googleapis.com/v0/b/palmoticeva-portal.firebasestorage.app/o/munze_data%2Fping%2Fyou-can-t-handle-the-truth-a-few-good-men-78-movie-clip-1992-hd_EnScA3l5.mp3?alt=media&token=791489ae-3f2c-4ede-b9fa-f7fde0dbfeaa"
