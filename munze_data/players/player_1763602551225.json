@@ -70,7 +70,11 @@
       "vatra",
       "maratonac",
       "stit"
-    ]
+    ],
+    "balance": 500,
+    "betHistory": [],
+    "debts": [],
+    "manualDebts": 0
   },
   "linkedEmails": [
     "djordje007@gmail.com"
