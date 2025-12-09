@@ -67,5 +67,6 @@
   ],
   "themeSongUrl": "https://www.youtube.com/watch?v=0CNPR2qNzxk",
   "debts": [],
-  "manualDebts": 0
+  "manualDebts": 0,
+  "isActive": true
 }
