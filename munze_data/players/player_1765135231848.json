@@ -37,6 +37,8 @@
         "statEffect": "Sreća < 30"
       }
     ],
-    "debts": []
+    "debts": [],
+    "balance": 200,
+    "betHistory": []
   }
 }
