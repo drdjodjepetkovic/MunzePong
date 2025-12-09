@@ -23,6 +23,13 @@
       "amount": 50,
       "teamIndex": 0,
       "timestamp": 1765308217121
+    },
+    {
+      "playerId": "1763603570404",
+      "playerName": "Stefan",
+      "teamIndex": 1,
+      "amount": 10,
+      "timestamp": 1765316653706
     }
   ],
   "createdBy": "Admin",
