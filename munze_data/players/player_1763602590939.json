@@ -53,5 +53,6 @@
   "linkedEmails": [],
   "themeSongUrl": "https://youtube.com/shorts/OUwkmrbGpIk?si=WxOXEg8R5YA0n1OV",
   "debts": [],
-  "manualDebts": 0
+  "manualDebts": 0,
+  "isActive": true
 }
