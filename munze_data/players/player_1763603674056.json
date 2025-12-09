@@ -10,12 +10,24 @@
     "classTitle": "Gušter Početnik",
     "classIcon": "🦎",
     "level": 1,
-    "currentXp": 0,
+    "currentXp": 25,
     "nextLevelXp": 100,
     "history": [],
-    "beersPaid": 0,
+    "beersPaid": 3,
     "burgersPaid": 0,
+    "badges": [
+      "maratonac",
+      "vatra"
+    ],
     "gear": [
+      {
+        "id": "gear_rabbit",
+        "name": "Zečija Šapa",
+        "icon": "gear/gear_rabbit.png",
+        "emoji": "🐇",
+        "description": "Klasika za sreću.",
+        "statEffect": "Sreća > 70"
+      },
       {
         "id": "gear_briefcase",
         "name": "Advokatska Tašna",
@@ -23,24 +35,8 @@
         "emoji": "💼",
         "description": "Profesionalno objašnjavanje pravila.",
         "statEffect": "Izgovori > 40"
-      },
-      {
-        "id": "gear_boombox",
-        "name": "Kasetofon",
-        "icon": "gear/gear_boombox.png",
-        "emoji": "📻",
-        "description": "Donosi atmosferu.",
-        "statEffect": "Buka > 60"
       }
-    ],
-    "badges": [
-      "maratonac",
-      "vatra"
-    ],
-    "balance": 200,
-    "betHistory": [],
-    "debts": [],
-    "manualDebts": 0
+    ]
   },
   "linkedEmails": [],
   "themeSongUrl": "https://firebasestorage.googleapis.com/v0/b/palmoticeva-portal.firebasestorage.app/o/munze_data%2Fping%2Fzdravko-colic-cija-je-ono-zvijezda-official-video_dZcs4xFN.mp3?alt=media&token=3d371ecf-2f40-45a9-a88d-ef0ee6af0b75",
