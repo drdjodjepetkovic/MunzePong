@@ -36,7 +36,11 @@
     "badges": [
       "maratonac",
       "vatra"
-    ]
+    ],
+    "balance": 200,
+    "betHistory": [],
+    "debts": [],
+    "manualDebts": 0
   },
   "linkedEmails": [],
   "themeSongUrl": "https://firebasestorage.googleapis.com/v0/b/palmoticeva-portal.firebasestorage.app/o/munze_data%2Fping%2Fzdravko-colic-cija-je-ono-zvijezda-official-video_dZcs4xFN.mp3?alt=media&token=3d371ecf-2f40-45a9-a88d-ef0ee6af0b75"
