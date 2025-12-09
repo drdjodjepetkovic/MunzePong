@@ -41,5 +41,7 @@
     "balance": 200,
     "betHistory": []
   },
-  "isActive": false
+  "isActive": false,
+  "debts": [],
+  "manualDebts": 0
 }
