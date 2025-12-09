@@ -4,59 +4,54 @@
   "avatarUrl": "https://raw.githubusercontent.com/drdjodjepetkovic/MunzePong/matrix/munze_data/images/avatars/1763602590939_1763786372899.jpg",
   "rpgStats": {
     "luck": 70,
-    "noise": 40,
-    "excuses": 30,
-    "spin": 70,
-    "classTitle": "Rob",
-    "classIcon": "ranks/rank_slave.png",
+    "noise": 42,
+    "excuses": 38,
+    "spin": 71,
+    "classTitle": "Paladin Izgovora",
+    "classIcon": "🗣️",
     "level": 1,
-    "currentXp": 25,
+    "currentXp": 50,
     "nextLevelXp": 100,
     "history": [
       {
-        "id": "1765237220139_loss",
-        "date": "2025-12-08T23:40:20.139Z",
-        "statement": "Izgubio od: Đole car",
-        "aiResponse": "Duguješ: 🍺 Pivo",
-        "xpGained": 0,
+        "id": "1763847013557",
+        "date": "2025-11-22T21:30:13.557Z",
+        "statement": "meč je bio težak sudija jeo g**** Videćemo šta će doneti danas šta noći",
+        "aiResponse": "Milašine, tvoja elokventna kritika sudija je zapažena i donosi ti titulu Paladina Izgovora. Pazi da se ne 'udaviš' u svojim primedbama!",
+        "xpGained": 50,
         "statsChanged": [
-          "Dug +1",
-          "Dostojanstvo -5"
+          "RPG Update"
         ]
       }
     ],
-    "beersPaid": 0,
-    "burgersPaid": 0,
+    "beersPaid": 6,
+    "burgersPaid": 1,
     "gear": [
       {
-        "id": "gear_fan",
-        "name": "Ventilator",
-        "icon": "gear/gear_fan.png",
-        "emoji": "💨",
-        "description": "Pravi promaju i ometa lopticu.",
-        "statEffect": "Spin 40-60"
+        "id": "gear_chainsaw",
+        "name": "Motorna Testera",
+        "icon": "gear/gear_chainsaw.png",
+        "emoji": "🪚",
+        "description": "Agresivan napad, nula kontrole.",
+        "statEffect": "Spin > 70"
       },
       {
-        "id": "gear_boombox",
-        "name": "Kasetofon",
-        "icon": "gear/gear_boombox.png",
-        "emoji": "📻",
-        "description": "Donosi atmosferu.",
-        "statEffect": "Buka > 60"
+        "id": "gear_beer",
+        "name": "Pivo",
+        "icon": "gear/gear_beer.png",
+        "emoji": "🍺",
+        "description": "Tečno zlato za oporavak.",
+        "statEffect": "Voli Kafanu"
       }
     ],
     "badges": [
       "maratonac",
       "vatra",
       "stit"
-    ],
-    "debts": [],
-    "balance": 100,
-    "betHistory": [],
-    "manualDebts": 0
+    ]
   },
   "linkedEmails": [],
-  "themeSongUrl": "https://firebasestorage.googleapis.com/v0/b/palmoticeva-portal.firebasestorage.app/o/munze_data%2Fping%2FSUPERMAN%20Theme%20-%20John%20Williams%20Saito%20Kinen%20Orchestra.mp3?alt=media&token=dcb3d805-9936-4394-9aec-1f7765a63c5d",
+  "themeSongUrl": "https://youtube.com/shorts/OUwkmrbGpIk?si=WxOXEg8R5YA0n1OV",
   "debts": [],
   "manualDebts": 0
 }
