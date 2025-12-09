@@ -44,5 +44,6 @@
   "isActive": false,
   "debts": [],
   "manualDebts": 0,
-  "balance": 1000
+  "balance": 1000,
+  "wallet": 200
 }
