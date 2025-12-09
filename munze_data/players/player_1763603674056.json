@@ -10,12 +10,24 @@
     "classTitle": "Gušter Početnik",
     "classIcon": "🦎",
     "level": 1,
-    "currentXp": 0,
+    "currentXp": 25,
     "nextLevelXp": 100,
     "history": [],
-    "beersPaid": 0,
+    "beersPaid": 3,
     "burgersPaid": 0,
+    "badges": [
+      "maratonac",
+      "vatra"
+    ],
     "gear": [
+      {
+        "id": "gear_fan",
+        "name": "Ventilator",
+        "icon": "gear/gear_fan.png",
+        "emoji": "💨",
+        "description": "Pravi promaju i ometa lopticu.",
+        "statEffect": "Spin 40-60"
+      },
       {
         "id": "gear_rabbit",
         "name": "Zečija Šapa",
@@ -23,19 +35,7 @@
         "emoji": "🐇",
         "description": "Klasika za sreću.",
         "statEffect": "Sreća > 70"
-      },
-      {
-        "id": "gear_boombox",
-        "name": "Kasetofon",
-        "icon": "gear/gear_boombox.png",
-        "emoji": "📻",
-        "description": "Donosi atmosferu.",
-        "statEffect": "Buka > 60"
       }
-    ],
-    "badges": [
-      "maratonac",
-      "vatra"
     ]
   },
   "linkedEmails": [],
