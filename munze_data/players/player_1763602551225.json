@@ -70,5 +70,6 @@
   "manualDebts": 0,
   "isActive": true,
   "pin": "1884",
-  "balance": 1000
+  "balance": 1000,
+  "wallet": 200
 }
