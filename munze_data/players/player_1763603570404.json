@@ -13,16 +13,20 @@
     "currentXp": 0,
     "nextLevelXp": 100,
     "history": [],
-    "beersPaid": 0,
+    "beersPaid": 2,
     "burgersPaid": 0,
+    "badges": [
+      "maratonac",
+      "vatra"
+    ],
     "gear": [
       {
-        "id": "gear_dice",
-        "name": "Kockice",
-        "icon": "gear/gear_dice.png",
-        "emoji": "🎲",
-        "description": "Nameštena igra.",
-        "statEffect": "Sreća > 60"
+        "id": "gear_fan",
+        "name": "Ventilator",
+        "icon": "gear/gear_fan.png",
+        "emoji": "💨",
+        "description": "Pravi promaju i ometa lopticu.",
+        "statEffect": "Spin 40-60"
       },
       {
         "id": "gear_boombox",
@@ -32,10 +36,6 @@
         "description": "Donosi atmosferu.",
         "statEffect": "Buka > 60"
       }
-    ],
-    "badges": [
-      "maratonac",
-      "vatra"
     ]
   },
   "linkedEmails": [],
